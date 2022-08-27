@@ -6,6 +6,6 @@ The dataset can be downloaded from this link https://www.kaggle.com/datasets/abd
 
 Steps to execute this repository:
 
-1. Install the require libraries
+1. Install the required libraries
 2. Place the dataset folder in the path e.g ./input/plant_disease
 3. Run the the notebook file ELM_task_code.ipynb
