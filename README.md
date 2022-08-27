@@ -8,4 +8,4 @@ Steps to execute this repository:
 
 1. Install the required libraries
 2. Place the dataset folder in your desired direcotory e.g ./input/plant_disease
-3. Run the the notebook file ELM_task_code.ipynb
+3. Run the the notebook file main.ipynb
